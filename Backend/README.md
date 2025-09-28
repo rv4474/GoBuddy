@@ -1,3 +1,4 @@
+# Welcome to GoBuddy
 # User Registration Endpoint
 
 ## Endpoint
